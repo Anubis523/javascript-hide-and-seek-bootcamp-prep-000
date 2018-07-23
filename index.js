@@ -19,3 +19,7 @@ function increaseRankBy(n) {
 function deepestChild() {
   return querySelector("div#grand-node ")
 }
+
+function hasChildren (element) {
+  return 
+}
